@@ -12,10 +12,6 @@ https://solscan.io/tx/5ubSXSDdCJxYcgLBtAuuRb1CZur6k8cq1TSEg3t4xTFx8a1HHHR6yNpEa5
 
 https://solscan.io/account/MEViEnscUm6tsQRoGd9h6nLQaQspKj7DB2M5FwM3Xvz
 
-# Our Discord
-
-If you have any questions, please join our Discord: https://discord.gg/9HNfg2MS4y
-
 ## Key Features
 
 - **Configuration Management**: Load settings from config files for easy deployment
