@@ -4,6 +4,10 @@ A sophisticated Solana on-chain arbitrage bot designed to identify and execute p
 
 **🚀 Advanced Features: gRPC integration, Shredstream support, ZeroSlot compatibility, and offline signing capabilities for maximum performance and reliability.**
 
+# Our Discord
+
+If you have any questions, please join our Discord: https://discord.gg/uQjDnRhy
+
 ## Example Transaction
 
 https://solscan.io/tx/5ubSXSDdCJxYcgLBtAuuRb1CZur6k8cq1TSEg3t4xTFx8a1HHHR6yNpEa5B2gbxZiACHxkYcsDHKj6MrTGoBLBVx
