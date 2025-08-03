@@ -6,7 +6,7 @@ A sophisticated Solana on-chain arbitrage bot designed to identify and execute p
 
 # Our Discord
 
-If you have any questions, please join our Discord: https://discord.gg/uQjDnRhy
+If you have any questions, please join our Discord: [https://discord.gg/uQjDnRhy](https://discord.gg/myaQG4dMYs)
 
 ## Example Transaction
 
